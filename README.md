@@ -1,8 +1,8 @@
+![image](https://user-images.githubusercontent.com/118332660/204431771-bc113db3-18dc-4c8e-8a88-bb34b1582052.png)
+
 ### Hi there I am a QA Manual and Automation Engineer👋
 
 ⚡ My Languages & Tools: Python, JavaScript, SELENIUM WEBDRIVER, PyCharm, WebStorm, GIT, Jira  
-
-![image](https://user-images.githubusercontent.com/118332660/204431771-bc113db3-18dc-4c8e-8a88-bb34b1582052.png)
 
 ### 📫 How to find me: www.linkedin.com/in/gregory-avetisyan/
 <!--
