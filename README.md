@@ -2,6 +2,9 @@
 ### 📫 How to find me: www.linkedin.com/in/gregory-avetisyan/
 ⚡ My Languages & Tools: Python, JavaScript, SELENIUM WEBDRIVER, PyCharm, WebStorm, GIT, Jira  
 
+![image](https://user-images.githubusercontent.com/118332660/204431561-d0eea5ca-7296-41f0-9ab2-18121138f9b2.png)
+
+
 <!--
 **gregory-avetis/gregory-avetis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
