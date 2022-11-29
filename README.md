@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I am a Software QA Engineer👋
 
 <!--
 **gregory-avetis/gregory-avetis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
