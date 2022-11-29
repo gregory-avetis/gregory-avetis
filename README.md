@@ -1,6 +1,6 @@
 ### Hi there I am a QA Manual and Automation Engineer👋
 ### 📫 How to find me: www.linkedin.com/in/gregory-avetisyan/
-⚡ My Languages & Tools: Python JavaScript SELENIUM WEBDRIVER PyCharm WebStorm GIT Jira  
+⚡ My Languages & Tools: Python, JavaScript, SELENIUM WEBDRIVER, PyCharm, WebStorm, GIT, Jira  
 
 <!--
 **gregory-avetis/gregory-avetis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
