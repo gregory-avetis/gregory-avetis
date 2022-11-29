@@ -1,5 +1,5 @@
 ### Hi there I am a QA Manual and Automation Engineer👋
-📫 How to reach me: linkedin.com/in/gregory-avetisyan/
+📫 How to reach me: www.linkedin.com/in/gregory-avetisyan/
 
 <!--
 **gregory-avetis/gregory-avetis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
