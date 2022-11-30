@@ -2,10 +2,17 @@
 
 ### Hi there I am a QA Manual and Automation Engineer👋
 
-⚡ My Languages & Tools: **[Python](https://www.python.org/)**, **[JavaScript](JavaScript.com)**, **[SELENIUM WebDriver](https://www.selenium.dev/documentation/webdriver/)**, **[PyCharm](https://www.jetbrains.com/pycharm/)**, **[WebStorm](https://www.jetbrains.com/webstorm/)**, **[GitHub](https://github.com/)**, **[Jira](https://www.atlassian.com/software/jira)**.
+🛠️ My Languages & Tools: **[Python](https://www.python.org/)**, **[JavaScript](JavaScript.com)**, **[HTML5](https://html.com/)**, **[SQL]()**, **[Markdown](https://www.markdownguide.org/)**,  **[SELENIUM WebDriver](https://www.selenium.dev/documentation/webdriver/)**, **[PyCharm](https://www.jetbrains.com/pycharm/)**, **[WebStorm](https://www.jetbrains.com/webstorm/)**, **[GitHub](https://github.com/)**, **[Jira](https://www.atlassian.com/software/jira)**.
 
-📫 How to find me: www.linkedin.com/in/gregory-avetisyan/
+🛠️ Operating systems: **[MacOS](https://www.apple.com/macos/ventura/)**, **[iOS](https://www.apple.com/ios/ios-16/)**, **[Windows OS](https://www.microsoft.com/en-us/windows)**, **[Android](https://www.android.com/)**.
 
+🛠️ Browsers: **[Safari](https://www.apple.com/safari/)**, **[Chrome](https://www.google.com/chrome/)**, **[Firefox](https://www.mozilla.org/en-US/)**, **[Edge](https://www.microsoft.com/en-us/edge?form=MM145U)**, **[Opera](https://www.opera.com/)**.
+
+
+🛠️ How to find me: **[LinkedIn Gregory Avetisyan](www.linkedin.com/in/gregory-avetisyan/)**.
+
+
+🛠️ Hobbies: **[Adobe Photoshop](https://www.adobe.com/products/photoshop.html)**, **[Adobe Illustrator](https://www.adobe.com/products/illustrator.html)**.
 
 
 <!--
