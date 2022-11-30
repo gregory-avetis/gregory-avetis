@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/118332660/204431771-bc113db3-18dc-4c8e-8a88-bb34b1582052.png)
+![image](https://user-images.githubusercontent.com/118332660/204694043-47bb629b-7102-49a7-8308-ada220619f74.png)
 
 ### Hi there I am a QA Manual and Automation Engineer👋
 
