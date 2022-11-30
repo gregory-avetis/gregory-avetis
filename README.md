@@ -9,7 +9,7 @@
 🛠️ Browsers: **[Safari](https://www.apple.com/safari/)**, **[Chrome](https://www.google.com/chrome/)**, **[Firefox](https://www.mozilla.org/en-US/)**, **[Edge](https://www.microsoft.com/en-us/edge?form=MM145U)**, **[Opera](https://www.opera.com/)**.
 
 
-🛠️ How to find me: **[LinkedIn Gregory Avetisyan](www.linkedin.com/in/gregory-avetisyan/)**.
+🛠️ How to find me: **[LinkedIn Gregory Avetisyan](https://www.linkedin.com/in/gregory-avetisyan/)**.
 
 
 🛠️ Hobbies: **[Adobe Photoshop](https://www.adobe.com/products/photoshop.html)**, **[Adobe Illustrator](https://www.adobe.com/products/illustrator.html)**.
