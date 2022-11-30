@@ -2,7 +2,7 @@
 
 ### Hi there I am a QA Manual and Automation Engineer👋
 
-⚡ My Languages & Tools: **[Python](https://www.python.org/)**, **[JavaScript](JavaScript.com)**, **[SELENIUM WebDriver](https://www.selenium.dev/documentation/webdriver/)**, **[PyCharm](https://www.jetbrains.com/pycharm/)**, **[WebStorm](https://www.jetbrains.com/webstorm/)**, **[GitHub](https://github.com/)**, **[Jira](https://www.atlassian.com/software/jira)**
+⚡ My Languages & Tools: **[Python](https://www.python.org/)**, **[JavaScript](JavaScript.com)**, **[SELENIUM WebDriver](https://www.selenium.dev/documentation/webdriver/)**, **[PyCharm](https://www.jetbrains.com/pycharm/)**, **[WebStorm](https://www.jetbrains.com/webstorm/)**, **[GitHub](https://github.com/)**, **[Jira](https://www.atlassian.com/software/jira)**.
 
 📫 How to find me: www.linkedin.com/in/gregory-avetisyan/
 
